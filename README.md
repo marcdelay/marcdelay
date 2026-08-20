@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**marcdelay/marcdelay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Marc** — welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+### 📫 Contact Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐙 **GitHub:** [github.com/marcdelay](https://github.com/marcdelay)
+- 💼 **LinkedIn:** [linkedin.com/in/marcdelay](https://www.linkedin.com/in/marcdelay)
+- 📧 **Email:** marc@example.com
+
+---
+
+> *"The only way to do great work is to love what you do."*
+> — Steve Jobs
